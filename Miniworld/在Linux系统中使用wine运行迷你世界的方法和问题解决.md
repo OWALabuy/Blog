@@ -8,7 +8,7 @@
 
 可是 **Windows**是一个不`渍油`的系统 它是专有软件 对于我们这样追求`渍油`的用户来说 没有什么比GNU/Linux更好的选择了
 
-像我们这样~~死性不改~~**"热爱"垃圾游戏迷你世界**的玩家 自然要寻找到能在Linux系统上愉快玩耍垃圾游戏的方法
+像我们这样~~死性不改~~ **"热爱"垃圾游戏迷你世界** 的玩家 自然要寻找到能在Linux系统上愉快玩耍垃圾游戏的方法
 
 # 方法
 
@@ -47,6 +47,8 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   DE: Unity
         `:+ssssssssssssssssss+:`           GPU: NVIDIA GeForce RTX 3050 Mobile 
             .-/+oossssoo+/-.               Memory: 7937MiB / 15715MiB 
 ```
+
+现在我玩垃圾游戏大概可以到70帧左右 基本没有卡顿的感觉 还是比较满意的 可以玩生存 跑酷 还有做地图之类的
 
 ## 安装步骤
 
