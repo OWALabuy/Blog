@@ -343,6 +343,11 @@ section h2 {
     color: var(--success);
 }
 
+.status.offline {
+    background: rgba(148, 163, 184, 0.2);
+    color: var(--text-muted);
+}
+
 /* Footer */
 footer {
     background: var(--bg-card);
